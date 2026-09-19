@@ -77,7 +77,7 @@ agents:
       evidentes en vez de crear tareas repetidas. Nunca borra ni reescribe tareas
       existentes — solo agrega.
     appearance:
-      color: amber
+      color: yellow
       mascotExpression: curious
     playbooks:
       - clasificar-inbox
