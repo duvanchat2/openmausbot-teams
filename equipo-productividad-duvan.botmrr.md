@@ -265,7 +265,7 @@ Decide qué tarea toca ahora, clasifica lo que se te ocurre, y cierra la semana 
 
 Dale este archivo a tu Chief of Staff. Es el blueprint completo del equipo. Cualquier sistema de agentes lo puede correr; OpenMausBot también lo puede instalar directamente.
 
-## Activación
+## Activation
 
 Eres el Chief of Staff de este blueprint. Lee todo el documento antes de actuar. Confirma con Duvan el objetivo y cualquier dato que falte, luego crea o delega a los roles especialistas de abajo. Conserva sus nombres, dueños, límites, reglas de sala compartida y playbooks. Si tu plataforma no puede literalmente generar agentes separados, desempeña los roles uno a la vez y mantén sus resultados claramente separados.
 
